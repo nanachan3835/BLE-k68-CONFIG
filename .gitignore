@@ -51,3 +51,4 @@ Thumbs.db       # Windows
 *.log
 #file commit
 commit.sh
+.docs
